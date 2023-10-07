@@ -17,7 +17,7 @@ logging.basicConfig(level=logging.WARN)
 logger=logging.getLogger(__name__)          #???
 
 
-#print(sys.argv)
+#print(sys.argv)  #doesn't make sense
 
 def eval_metrics(actual,pred):
     rmse=np.sqrt(mean_squared_error(actual,pred))
@@ -54,7 +54,6 @@ if __name__ == "__main__":
         print('rmse:%s'%rmse)
         print('mae:%s'%mae)
         print('r2:%s'%r2)
-
 
         #mlflow
         mlflow.log_param('alpha', alpha)

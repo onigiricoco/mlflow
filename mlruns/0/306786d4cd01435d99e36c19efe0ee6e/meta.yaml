@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Robin/learn-git/mlruns/0/306786d4cd01435d99e36c19efe0ee6e/artifacts
+end_time: 1696685311658
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 306786d4cd01435d99e36c19efe0ee6e
+run_name: clean-lamb-992
+run_uuid: 306786d4cd01435d99e36c19efe0ee6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696685307704
+status: 3
+tags: []
+user_id: Robin

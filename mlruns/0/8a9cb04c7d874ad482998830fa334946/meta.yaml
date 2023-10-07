@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Robin/learn-git/mlruns/0/8a9cb04c7d874ad482998830fa334946/artifacts
+end_time: 1696688187976
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a9cb04c7d874ad482998830fa334946
+run_name: invincible-shark-868
+run_uuid: 8a9cb04c7d874ad482998830fa334946
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696688183860
+status: 3
+tags: []
+user_id: Robin

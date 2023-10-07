@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Robin/learn-git/mlruns/0/0686e72880f4427d983246fafc580851/artifacts
+end_time: 1696687424910
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0686e72880f4427d983246fafc580851
+run_name: sassy-conch-744
+run_uuid: 0686e72880f4427d983246fafc580851
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696687420847
+status: 3
+tags: []
+user_id: Robin

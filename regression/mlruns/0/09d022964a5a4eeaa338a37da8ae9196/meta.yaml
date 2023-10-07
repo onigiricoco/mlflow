@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Robin/learn-git/regression/mlruns/0/09d022964a5a4eeaa338a37da8ae9196/artifacts
+end_time: 1696694662540
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09d022964a5a4eeaa338a37da8ae9196
+run_name: dapper-carp-221
+run_uuid: 09d022964a5a4eeaa338a37da8ae9196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696694659672
+status: 3
+tags: []
+user_id: Robin

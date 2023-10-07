@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Robin/learn-git/mlruns/0/96731a1ebb31414eac8d1b4c998cc116/artifacts
+end_time: 1696694605989
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 96731a1ebb31414eac8d1b4c998cc116
+run_name: abrasive-eel-526
+run_uuid: 96731a1ebb31414eac8d1b4c998cc116
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696694601819
+status: 3
+tags: []
+user_id: Robin

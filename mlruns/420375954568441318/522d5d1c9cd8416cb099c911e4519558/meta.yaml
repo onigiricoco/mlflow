@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Robin/learn-git/mlruns/420375954568441318/522d5d1c9cd8416cb099c911e4519558/artifacts
+end_time: 1696697760513
+entry_point_name: ''
+experiment_id: '420375954568441318'
+lifecycle_stage: active
+run_id: 522d5d1c9cd8416cb099c911e4519558
+run_name: learned-panda-716
+run_uuid: 522d5d1c9cd8416cb099c911e4519558
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696697756429
+status: 3
+tags: []
+user_id: Robin

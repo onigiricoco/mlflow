@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Robin/learn-git/mlruns/0/7bf12cdd926a4b47a03e056fdefc57ec/artifacts
+end_time: 1696693686067
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7bf12cdd926a4b47a03e056fdefc57ec
+run_name: fortunate-squid-287
+run_uuid: 7bf12cdd926a4b47a03e056fdefc57ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696693681870
+status: 3
+tags: []
+user_id: Robin

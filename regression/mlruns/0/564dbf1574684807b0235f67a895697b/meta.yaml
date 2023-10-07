@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Robin/learn-git/regression/mlruns/0/564dbf1574684807b0235f67a895697b/artifacts
+end_time: 1696683281189
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 564dbf1574684807b0235f67a895697b
+run_name: wistful-steed-187
+run_uuid: 564dbf1574684807b0235f67a895697b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696683276967
+status: 3
+tags: []
+user_id: Robin

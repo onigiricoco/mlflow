@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Robin/learn-git/mlruns/0/13cc56aacc1f4bbda7c7d824c5cddd97/artifacts
+end_time: 1696701153349
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13cc56aacc1f4bbda7c7d824c5cddd97
+run_name: glamorous-doe-885
+run_uuid: 13cc56aacc1f4bbda7c7d824c5cddd97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696701149138
+status: 3
+tags: []
+user_id: Robin

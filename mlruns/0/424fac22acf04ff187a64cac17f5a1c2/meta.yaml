@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Robin/learn-git/mlruns/0/424fac22acf04ff187a64cac17f5a1c2/artifacts
+end_time: 1696687202562
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 424fac22acf04ff187a64cac17f5a1c2
+run_name: nebulous-moth-659
+run_uuid: 424fac22acf04ff187a64cac17f5a1c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696687198594
+status: 3
+tags: []
+user_id: Robin

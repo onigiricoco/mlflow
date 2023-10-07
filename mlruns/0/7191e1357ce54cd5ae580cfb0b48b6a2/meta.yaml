@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Robin/learn-git/mlruns/0/7191e1357ce54cd5ae580cfb0b48b6a2/artifacts
+end_time: 1696687134635
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7191e1357ce54cd5ae580cfb0b48b6a2
+run_name: casual-mouse-965
+run_uuid: 7191e1357ce54cd5ae580cfb0b48b6a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696687130606
+status: 3
+tags: []
+user_id: Robin

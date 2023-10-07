@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Robin/learn-git/mlruns/0/ed91f9a319a7491d905c8d470b09ccbc/artifacts
+end_time: 1696693642381
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed91f9a319a7491d905c8d470b09ccbc
+run_name: serious-cow-821
+run_uuid: ed91f9a319a7491d905c8d470b09ccbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696693638225
+status: 3
+tags: []
+user_id: Robin

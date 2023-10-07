@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Robin/learn-git/mlruns/0/59d426c3d0814a688891c2f3771b0dac/artifacts
+end_time: 1696687038932
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59d426c3d0814a688891c2f3771b0dac
+run_name: brawny-goat-960
+run_uuid: 59d426c3d0814a688891c2f3771b0dac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696687034923
+status: 3
+tags: []
+user_id: Robin

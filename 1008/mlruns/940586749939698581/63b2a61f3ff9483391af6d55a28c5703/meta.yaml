@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Robin/learn-git/1008/mlruns/940586749939698581/63b2a61f3ff9483391af6d55a28c5703/artifacts
+end_time: 1696769645914
+entry_point_name: ''
+experiment_id: '940586749939698581'
+lifecycle_stage: active
+run_id: 63b2a61f3ff9483391af6d55a28c5703
+run_name: treasured-hawk-248
+run_uuid: 63b2a61f3ff9483391af6d55a28c5703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696769645878
+status: 3
+tags: []
+user_id: Robin

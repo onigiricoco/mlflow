@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Robin/learn-git/mlruns/783828365580004937/a195f4e5736b463abb4ee4840b7e7c92/artifacts
+end_time: 1696769222448
+entry_point_name: ''
+experiment_id: '783828365580004937'
+lifecycle_stage: active
+run_id: a195f4e5736b463abb4ee4840b7e7c92
+run_name: efficient-cow-398
+run_uuid: a195f4e5736b463abb4ee4840b7e7c92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696769222406
+status: 3
+tags: []
+user_id: Robin

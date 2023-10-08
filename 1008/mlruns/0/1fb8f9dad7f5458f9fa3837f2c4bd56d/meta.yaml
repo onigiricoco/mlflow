@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1fb8f9dad7f5458f9fa3837f2c4bd56d/artifacts
+end_time: 1696769908437
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1fb8f9dad7f5458f9fa3837f2c4bd56d
+run_name: bedecked-croc-54
+run_uuid: 1fb8f9dad7f5458f9fa3837f2c4bd56d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696769908402
+status: 3
+tags: []
+user_id: Robin

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Robin/learn-git/mlruns/783828365580004937/112f5fbb3e3b44d88126971dab6a02fa/artifacts
+end_time: 1696768948928
+entry_point_name: ''
+experiment_id: '783828365580004937'
+lifecycle_stage: active
+run_id: 112f5fbb3e3b44d88126971dab6a02fa
+run_name: luminous-midge-358
+run_uuid: 112f5fbb3e3b44d88126971dab6a02fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696768948889
+status: 3
+tags: []
+user_id: Robin

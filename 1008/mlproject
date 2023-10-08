@@ -1,0 +1,10 @@
+name: tutorial
+
+python_env: python_env.yaml
+
+entry_points:
+  main:
+    parameters:
+      a: {type: int}
+      b: {type: int}
+    command: "python 1008.py"
